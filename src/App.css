@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #4CAF50;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+
+.expense-form {
+  display: flex;
+  margin: 20px;
+}
+
+.expense-list {
+  list-style: none;
+  padding: 0;
+}
