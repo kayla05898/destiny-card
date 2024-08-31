@@ -1,0 +1,13 @@
+.expense-form {
+  display: flex;
+  margin: 20px;
+}
+
+.expense-form input {
+  flex: 1;
+  padding: 10px;
+}
+
+.expense-form button {
+  padding: 10px;
+}
