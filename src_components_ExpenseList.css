@@ -1,0 +1,9 @@
+.expense-list {
+  list-style: none;
+  padding: 0;
+}
+
+.expense-list li {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
