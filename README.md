@@ -21,13 +21,15 @@ With a sleek and user-friendly interface, Destiny Card ensures a smooth experien
 - **Jest**: Testing framework used for ensuring high code quality through automated testing.
 
 ## Author
-- **Name**: Kayla Johnson  
-- Kayla Johnson is a highly experienced full-stack developer who holds a Master's in Computer Science from a leading institution.
-- With over seven years of experience, Kayla specializes in building scalable web applications using modern JavaScript frameworks like React and Node.js. She is passionate about clean 
-  coding, best practices, and helping other developers grow.
-- Kayla has contributed to several open-source projects and is well known for her collaborative and mentoring spirit.
+- **Name**: Kayla Johnson
 - **Email**: kayla05898@outlook.com
 - **Website**: Destiny Card
+- Kayla Johnson is a highly experienced full-stack developer who holds a Master's in Computer Science from a leading institution.
+- With over seven years of experience, Kayla specializes in building scalable web applications using modern JavaScript frameworks like 
+  React and Node.js. She is passionate about clean 
+  coding, best practices, and helping other developers grow.
+- Kayla has contributed to several open-source projects and is well known for her collaborative and mentoring spirit.
+
 
 ## Getting Started
 To get started with Destiny Card, follow these steps:
