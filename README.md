@@ -1,6 +1,5 @@
 # Destiny Card
 
-## Description
 Destiny Card is an advanced web-based application designed to simplify personal and business expense tracking. The app allows users to manage their daily expenses efficiently by organizing them into different categories. 
 
 Destiny Card offers features such as expense tracking, receipt generation, and summary views to make budgeting easier and more effective. It supports both individual users and businesses looking to maintain a clear overview of their expenditures. 
@@ -35,7 +34,7 @@ To get started with Destiny Card, follow these steps:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/destiny-card.git
+    git clone https://github.com/kayla05898/destiny-card.git
     ```
 
 2. **Navigate to the Project Directory**:
